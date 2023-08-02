@@ -69,6 +69,6 @@
 
 [4.6 공통 데이터를 통한 통신](https://github.com/changuii/MicroserviceStudy/blob/main/chapter4/CommonData.md)
 
-[4.7 요청 및 응답 통신](https://github.com/changuii/MicroserviceStudy/blob/main/chapter4/AsynchronousNonblocking.md)
+[4.7 요청 및 응답 통신](https://github.com/changuii/MicroserviceStudy/blob/main/chapter4/RequestResponse.md)
 
-[4.8 이벤트 기반 통신](https://github.com/changuii/MicroserviceStudy/blob/main/chapter4/EventDriven)
+[4.8 이벤트 기반 통신](https://github.com/changuii/MicroserviceStudy/blob/main/chapter4/EventDriven.md)
