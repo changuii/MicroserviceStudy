@@ -1,5 +1,13 @@
 # MicroserviceStudy
 
+## CHAPTER 0. MSA를 구현하기 위한 기술들
+
+`Netflix oss`
+- 넷플릭스에서 MSA를 구현하기 위해서 만든 오픈소스 프로젝트
+- Spring 제단에서 겹치는 부분이 있음
+각각의 용어 설명에대한 링크
+- [용어 링크](https://mycup.tistory.com/374#:~:text=%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4%EC%97%90%EC%84%9C%EB%8A%94%20%EC%9E%90%EC%B2%B4%EC%A0%81%EC%9C%BC%EB%A1%9C%20MSA,open%20source%20sofrware)%EB%9D%BC%20%EC%B9%AD%ED%95%9C%EB%8B%A4.)
+- [Spring bood에서 제공하는 MSA 기능들](https://mycup.tistory.com/370)
 
 
 ## CHAPTER 1. 마이크로서비스란?
